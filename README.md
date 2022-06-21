@@ -26,16 +26,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img align="left" width=390 
+  <img align="left" height=160 
     src="https://github-readme-streak-stats.herokuapp.com/?user=palcarazm&show_icons=true&hide_border=true&count_private=true" 
   />
-  <img align="right" width=390
-    src="https://github-readme-stats.vercel.app/api?username=palcarazm&show_icons=true&hide_border=true&count_private=true"
+  <img align="right" height=160 
+    src="https://github-readme-stats.vercel.app/api?username=palcarazm&show_icons=true&hide_border=true&count_private=true&hide_title=true"
   />
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=palcarazm&show_icons=true&hide_border=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=palcarazm&show_icons=true&hide_border=true&layout=compact&hide_title=true"
   />
 </div>
 
@@ -46,19 +46,19 @@
 <div align="center">
   <a href="https://github.com/creecros/simple_logo_gen" title="simple_logo_gen"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=creecros&repo=simple_logo_gen&border_radius=10&show_owner=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=creecros&repo=simple_logo_gen&border_radius=10&show_owner=true"
   /></a>
 </div>
 <div align="center">
   <a href="https://github.com/palcarazm/MyStreamers" title="MyStreamers"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10&show_owner=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10&show_owner=true"
   /></a>
 </div>
 <div align="center">
   <a href="https://github.com/palcarazm/ArtistWebpage" title="ArtistWebpage"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10&show_owner=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10&show_owner=true"
   /></a>
 </div>
 <!--
