@@ -46,19 +46,19 @@
 <div align="center">
   <a href="https://github.com/creecros/simple_logo_gen" title="simple_logo_gen"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=creecros&repo=simple_logo_gen&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=creecros&repo=simple_logo_gen&border_radius=10&show_owner=1"
   /></a>
 </div>
 <div align="center">
   <a href="https://github.com/palcarazm/MyStreamers" title="MyStreamers"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10&show_owner=1"
   /></a>
 </div>
 <div align="center">
   <a href="https://github.com/palcarazm/ArtistWebpage" title="ArtistWebpage"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10&show_owner=1"
   /></a>
 </div>
 <!--
