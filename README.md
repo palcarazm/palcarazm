@@ -26,8 +26,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=palcarazm&show_icons=true&hide_border=true"
+  <img align="left" width=390 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=palcarazm&show_icons=true&hide_border=true&count_private=true" 
+  />
+  <img align="right" width=390
+    src="https://github-readme-stats.vercel.app/api?username=palcarazm&show_icons=true&hide_border=true&count_private=true"
   />
 </div>
 <div align="center">
@@ -37,7 +40,9 @@
 </div>
 
 <h2 align="center">👨‍💻 My Repositories and where I contibute 👨‍💻</h2>
-<br />
+<h4 align="center">
+  <a href="https://github.com/palcarazm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 <div align="center">
   <a href="https://github.com/creecros/simple_logo_gen" title="simple_logo_gen"
     ><img
@@ -56,9 +61,6 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10"
   /></a>
 </div>
-<h4 align="center">
-  <a href="https://github.com/palcarazm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 <!--
   **palcarazm/palcarazm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
