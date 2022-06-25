@@ -26,10 +26,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img align="left" height=160 
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=palcarazm&show_icons=true&hide_border=true&count_private=true" 
   />
-  <img align="right" height=160 
+</div>
+<div align="center">
+  <img
     src="https://github-readme-stats.vercel.app/api?username=palcarazm&show_icons=true&hide_border=true&count_private=true&hide_title=true"
   />
 </div>
