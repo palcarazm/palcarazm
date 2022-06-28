@@ -10,6 +10,10 @@
     ><img
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   /></a>
+  <a href="https://pablo.alcarazm.es" title="My Website"
+    ><img
+      src="https://img.shields.io/static/v1?label=my&message=website&style=for-the-badge&color=grey"
+  /></a>
 </h5>
 
 <p align="center">
