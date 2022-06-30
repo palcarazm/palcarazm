@@ -56,6 +56,12 @@
   /></a>
 </div>
 <div align="center">
+  <a href="https://github.com/palcarazm/bootstrap5-toggle" title="simple_logo_gen"
+    ><img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=bootstrap5-toggle&border_radius=10&show_owner=true"
+  /></a>
+</div>
+<div align="center">
   <a href="https://github.com/palcarazm/MyStreamers" title="MyStreamers"
     ><img
       src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10&show_owner=true"
