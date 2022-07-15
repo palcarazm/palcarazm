@@ -12,7 +12,7 @@
   /></a>
   <a href="https://pablo.alcarazm.es" title="My Website"
     ><img
-      src="https://img.shields.io/static/v1?label=my&message=website&style=for-the-badge&color=grey"
+      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
   /></a>
 </h5>
 
