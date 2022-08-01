@@ -14,6 +14,10 @@
     ><img
       src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
   /></a>
+  <a href="https://github.com/sponsors/palcarazm" title="Sponsors"
+    ><img
+      src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"
+  /></a>
 </h5>
 
 <p align="center">
