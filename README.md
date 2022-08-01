@@ -56,7 +56,7 @@
   /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/palcarazm/bootstrap5-toggle" title="simple_logo_gen"
+  <a href="https://github.com/palcarazm/bootstrap5-toggle" title="bootstrap5-toggle"
     ><img
       src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=bootstrap5-toggle&border_radius=10&show_owner=true"
   /></a>
