@@ -54,19 +54,25 @@
   <a href="https://github.com/palcarazm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 <div align="center">
-  <a href="https://github.com/creecros/simple_logo_gen" title="simple_logo_gen"
+  <a href="https://github.com/creecros/simple_logo_gen" title="Simple Logo generator"
     ><img
       src="https://github-readme-stats.vercel.app/api/pin/?username=creecros&repo=simple_logo_gen&border_radius=10&show_owner=true"
   /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/palcarazm/bootstrap5-toggle" title="bootstrap5-toggle"
+  <a href="https://github.com/palcarazm/bootstrap5-toggle" title="Boostrap Toggle"
     ><img
       src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=bootstrap5-toggle&border_radius=10&show_owner=true"
   /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/palcarazm/MyStreamers" title="MyStreamers"
+  <a href="https://github.com/palcarazm/bs-darkmode" title="Boostrap Darkmode"
+    ><img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=bs-darkmode&border_radius=10&show_owner=true"
+  /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/palcarazm/MyStreamers" title="My Streamers Webapp"
     ><img
       src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10&show_owner=true"
   /></a>
@@ -77,17 +83,3 @@
       src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10&show_owner=true"
   /></a>
 </div>
-<!--
-  **palcarazm/palcarazm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-  Here are some ideas to get you started:
-  
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
--->
