@@ -8,7 +8,11 @@
 <h5 align="center">
   <a href="https://www.linkedin.com/in/palcarazm/" title="LinkedIn Profile"
     ><img
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/static/v1?label=linkedin&message=palcarazm&color=blue&style=for-the-badge&logo=linkedin"
+  /></a>
+  <a href="https://leetcode.com/palcarazm/" title="LeetCode Profile"
+    ><img
+      src="https://img.shields.io/static/v1?label=leetcode&message=palcarazm&color=orange&style=for-the-badge&logo=leetcode"
   /></a>
   <a href="https://pablo.alcarazm.es" title="My Website"
     ><img
@@ -72,14 +76,8 @@
   /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/palcarazm/MyStreamers" title="My Streamers Webapp"
+  <a href="https://github.com/palcarazm/classic-games" title="My Streamers Webapp"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=MyStreamers&border_radius=10&show_owner=true"
-  /></a>
-</div>
-<div align="center">
-  <a href="https://github.com/palcarazm/ArtistWebpage" title="ArtistWebpage"
-    ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=ArtistWebpage&border_radius=10&show_owner=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=classic-games&border_radius=10&show_owner=true"
   /></a>
 </div>
