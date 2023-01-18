@@ -25,7 +25,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Pablo Alcaraz, QA Engineer from Spain
+  Hi, I'm Pablo Alcaraz, Business Analyst from Spain
   <br />
   🎓 I graduated in M.Sc.Eng. Aeronautical from the Politecnical University of Valencia
   <br />
