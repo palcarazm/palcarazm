@@ -70,9 +70,9 @@
   /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/palcarazm/bs-darkmode" title="Boostrap Darkmode"
+  <a href="https://github.com/palcarazm/bs-darkmode-toggle" title="Boostrap Darkmode Toggle"
     ><img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=bs-darkmode&border_radius=10&show_owner=true"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=palcarazm&repo=bs-darkmode-toggle&border_radius=10&show_owner=true"
   /></a>
 </div>
 <div align="center">
